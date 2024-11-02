@@ -10,7 +10,7 @@ print_bold_with_outline() {
     done
 
     echo -e "\e[1m\e[44m$border\e[0m"
-    echo -e "\e[1m\e[44m# $msg #\e[0m
+    echo -e "\e[1m\e[44m# $msg #\e[0m"
     echo -e "\e[1m\e[44m$border\e[0m"
 }
 
